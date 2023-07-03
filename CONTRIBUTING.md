@@ -8,38 +8,7 @@ pity to let the project stagnate.
 In other words, I made the project open-source in order to give an opportunity for the community to continue its
 development.
 
-If you are interested in contributing, you are welcome to do so. Please take a moment to read the following guidelines:
-
-## Getting Started
-
-To get started, follow these steps:
-
-1. Fork the SLModes repository to your own GitHub account.
-2. Clone your fork to your local machine.
-3. Create a new branch for your changes.
-4. Make your changes and commit them.
-5. Push your changes to your fork.
-5. Submit a pull request to the SLModes repository.
-
-## Guidelines for Contributions
-
-When making contributions to SLModes, please follow these guidelines:
-
-1. Test your changes thoroughly before submitting a pull request.
-2. Make sure your changes do not break existing functionality.
-3. If you are making a significant change, please open an issue to discuss it before submitting a pull request.
-4. Providing a working frozen code is helpful to make the software available to users. This is specially true for macOS, since I can no longer guarantee I will be able to do it myself moving forward. Read the last section of this document to get familiarized with the challenges regarding freezing the code.
-5. You are not expected to make changes to SLModes for macOS and Windows (unless you want to). From now on, those 2 versions will grow independent from each other.
-6. You should keep in mind that I'm mostly an amateur self-taught programmer, and some things might not have been done according to the textbook. If you find such things and want to improve them, do it.
-
-## Review Process
-
-To conclude the process, I will review a pull request before it is merged into the main branch.
-
-Thank you for your contributions to SLModes!
-
-## Contact
-To contact me directly, go to https://sinewavelab.com/contact/
+If you are interested in contributing, get in touch with me: https://sinewavelab.com/contact/
 
 # SLModes Report - Installation Tips, Freezing, etc.
 
