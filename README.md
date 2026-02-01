@@ -55,7 +55,7 @@ Either to come up with a complete negative version of a chord progression you al
 
 And when you're done, you can export the chord progression to a MIDI file, and import it into your DAW.
 
-<img src="https://sinewavelab.com/wp-content/uploads/2023/12/SLModes-Composer-Mode.webp" style="zoom: 67%;" />
+![](https://sinewavelab.com/wp-content/uploads/2023/12/SLModes-Composer-Mode.webp)
 
 ## ⭐ **Basic Feature (for Guitar Players): Extended Guitar Fretboard**
 
@@ -63,11 +63,11 @@ You can also open the **extended freboard mode**, to access the notes of the mod
 
 The green notes show the root note of the mode. 
 
-<img src="https://sinewavelab.com/wp-content/uploads/2023/12/SLModes-Extended-Fretboard-2.webp" style="zoom: 50%;" />
+![](https://sinewavelab.com/wp-content/uploads/2023/12/SLModes-Extended-Fretboard-2.webp)
 
 Alternatively, the extended fretboard can also show the notes of any currency selected chord in blue. This makes it easy to learn all the **chords positions, inversions** and **arpeggios** across the entire guitar fretboard.
 
-<img src="https://sinewavelab.com/wp-content/uploads/2023/12/SLModes-Extended-Fretboard-3.webp" style="zoom:50%;" />
+![](https://sinewavelab.com/wp-content/uploads/2023/12/SLModes-Extended-Fretboard-3.webp)
 
 ## 🎵 Example: Same Music Idea written in Different Modes
 
