@@ -13,6 +13,8 @@ You will find ideas for *uncommon chord progressions* that lie outside of your n
 
 ## ⭐ **Basic Feature: Music Modes Exploration**
 
+![](https://www.youtube.com/watch?v=W4cKGt2b-EA)
+
 Get access to:
 
 🎼 A list of **9 scales**: *Major, Melodic Minor, Harmonic Minor, Harmonic Major, Double Harmonic Major, Neapolitan Major, Neapolitan Minor, Hungarian Minor and Romanian Major*.
