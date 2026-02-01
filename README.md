@@ -39,7 +39,7 @@ Example: *From the list of 63 modes, find those that have 4 notes in common with
 
 This allows you to jump between modes that don’t necessarily belong to the same scale / key. However, since they have at least some notes in common, acting as a bridge, the jump can always be made to work.
 
-[![](https://sinewavelab.com/wp-content/uploads/2026/02/SLModes-Thumbnail-02.webp)](https://www.youtube.com/watch?v=W4cKGt2b-EA)
+[![](https://sinewavelab.com/wp-content/uploads/2026/02/SLModes-Thumbnail-02.webp)](https://www.youtube.com/watch?v=kNh7jbPpf6E)
 
 ## ⭐ **Advanced Feature: Negative Harmony**
 
@@ -47,7 +47,7 @@ With negative harmony, we can choose a mode and then use the Circle Fifths, Four
 
 Either to come up with a complete negative version of a chord progression you already have, or simply to grab some *borrowed negative chords,* having a Negative Harmony tool can give you even more ideas for your music compositions.
 
-[![](https://sinewavelab.com/wp-content/uploads/2026/02/SLModes-Thumbnail-03.webp)](https://www.youtube.com/watch?v=kNh7jbPpf6E)
+[![](https://sinewavelab.com/wp-content/uploads/2026/02/SLModes-Thumbnail-03.webp)](https://www.youtube.com/watch?v=atBlKsLHQ0I)
 
 ## ⭐ **Basic Feature: Composer Mode**
 
@@ -69,12 +69,6 @@ Alternatively, the extended fretboard can also show the notes of any currency se
 
 <img src="https://sinewavelab.com/wp-content/uploads/2023/12/SLModes-Extended-Fretboard-3.webp" style="zoom:50%;" />
 
-## 🎵 Music Example: Chord Progression I Wrote with SLModes
-
-This is an example of a music track I wrote where I applied all the concepts described above: exotic modes, interscalar modal modulation, and negative harmony.
-
-[![](https://sinewavelab.com/wp-content/uploads/2026/02/SLModes-Thumbnail-04.webp)](https://www.youtube.com/watch?v=xQsOlE255hI)
-
 ## 🎵 Example: Same Music Idea written in Different Modes
 
 How would the same music idea sound if it were written in the obscure modes of Mixolydian b6 and Ionian #5? In this video I will show you how two modes can affect the mood and emotional impact of the same musical idea. 
@@ -89,9 +83,9 @@ If you actually don't fully understand the modes, let me tell you something: the
 
 ## **System Requirements**
 
-**Operating System:** Windows
-**Architecture:** 64 bits
-**RAM:** 1 GB
-**Soundcard:** Required
-**Hard-Drive Free Space:** 150 MB
-**Minimum Screen Resolution:** 980×600
+- **Operating System:** Windows
+- **Architecture:** 64 bits
+- **RAM:** 1 GB
+- **Soundcard:** Required
+- **Hard-Drive Free Space:** 150 MB
+- **Minimum Screen Resolution:** 980×600
